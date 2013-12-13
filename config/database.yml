@@ -3,14 +3,21 @@ development:
   database: my_database
   pool: 5
   timeout: 5000
+  username: martintian
+  password: martintian
+
 test:
   adapter: postgresql
   database: my_database
   pool: 5
   timeout: 5000
+username: martintian
+  password: martintian
 
 production:
   adapter: postgresql
   database: my_database
   pool: 5
   timeout: 5000
+  username: martintian
+  password: martintian
