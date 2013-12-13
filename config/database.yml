@@ -11,7 +11,7 @@ test:
   database: my_database
   pool: 5
   timeout: 5000
-username: martintian
+  username: martintian
   password: martintian
 
 production:
